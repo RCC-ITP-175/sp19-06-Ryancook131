@@ -35,6 +35,18 @@ if getDay != "Monday";
 isMonday = "False";
 }
     
+///////////////////////////
+// INSTRUCTOR FEEDBACK
+//////////////////////////
+// You're pretty close here, your missing the function declaration, similar to exercise 1.
+// Line 7 could read
+// function isMonday (day){
+//
+// Line 8 would need to be changed to 
+// switch (day.getDay()) {
+//
+// Lines 31 and 34 are missing () and { for the if statements
+
 
 
 
