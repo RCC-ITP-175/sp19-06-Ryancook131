@@ -7,6 +7,15 @@ console.log("exercise1.js start");
   var multiplyThem = num1 * num2
   }
 
+///////////////////////////
+// INSTRUCTOR FEEDBACK
+//////////////////////////
+// Close, you've written multiplyThem as a variable and not a function
+// but it does accomplish the task asked. Here's what it would look like
+// as a function
+// function multiplyThem (num1, num2) {
+//    return num1 * num2
+// }
 
 
 
